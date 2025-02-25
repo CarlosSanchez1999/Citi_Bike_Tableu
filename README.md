@@ -9,7 +9,7 @@ Using **Tableau**, we created interactive dashboards comparing ridership trends 
 
 ## 📊 Dashboards
 🔗 **[Summer 2023 Citi Bike Dashboard](https://public.tableau.com/app/profile/carlos.fernando.s.nchez.lozano/viz/Dashboard_summer/SummerDashboard?publish=yes)**  
-🔗 **[Winter 2024 Citi Bike Dashboard](https://public.tableau.com/app/profile/carlos.fernando.s.nchez.lozano/viz/Dashboard_Winter/WinterDashboard?publish=yes))**  
+🔗 **[Winter 2024 Citi Bike Dashboard](https://public.tableau.com/app/profile/carlos.fernando.s.nchez.lozano/viz/Dashboard_Winter/WinterDashboard?publish=yes)**  
 
 Each dashboard includes **five key visualizations** that highlight seasonal differences in Citi Bike usage.
 
